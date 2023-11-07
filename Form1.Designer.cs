@@ -252,6 +252,7 @@
             Thread1.TabIndex = 3;
             Thread1.Text = "Start";
             Thread1.UseVisualStyleBackColor = true;
+            Thread1.Click += Thread1_Click;
             // 
             // Form1
             // 
